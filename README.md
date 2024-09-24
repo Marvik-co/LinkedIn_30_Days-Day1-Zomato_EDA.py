@@ -14,7 +14,7 @@ Each project folder aligns with a LinkedIn post or article and contains the code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/easyml-code/linkedin.git
    ```
 2. Browse the project folders that correspond to the LinkedIn post you're interested in.
 3. Run the provided code following the instructions in each project's README or notebook.
